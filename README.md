@@ -47,7 +47,7 @@ Click WA logo to Join Support Group 👇
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pkdty.git)
-    </div>
+</div>
 <br>
 <br >
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
@@ -70,7 +70,7 @@ $ node qr.js
 ```
       
 ```js
-SETUP
+SETU
 $ git clone https://github.com/ameer-kallumthodi/pikachu
 $ cd pikachu
 $ chmod +x *
